@@ -1,0 +1,11 @@
+certifi==2018.10.15
+cffi==1.11.5
+mkl-fft==1.0.6
+mkl-random==1.0.1
+numpy==1.15.0
+olefile==0.46
+Pillow==5.3.0
+pycparser==2.19
+six==1.11.0
+torch==0.4.1
+torchvision==0.2.1
